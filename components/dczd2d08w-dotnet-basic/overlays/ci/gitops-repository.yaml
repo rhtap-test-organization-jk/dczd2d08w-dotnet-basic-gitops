@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dczd2d08w-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/dczd2d08w-dotnet-basic-gitops
